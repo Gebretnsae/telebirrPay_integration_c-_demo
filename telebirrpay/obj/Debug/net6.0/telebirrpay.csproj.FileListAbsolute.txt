@@ -1,0 +1,17 @@
+D:\Workspaces\visual studio\telebirrpay\telebirrpay\bin\Debug\net6.0\telebirrpay.exe
+D:\Workspaces\visual studio\telebirrpay\telebirrpay\bin\Debug\net6.0\telebirrpay.deps.json
+D:\Workspaces\visual studio\telebirrpay\telebirrpay\bin\Debug\net6.0\telebirrpay.runtimeconfig.json
+D:\Workspaces\visual studio\telebirrpay\telebirrpay\bin\Debug\net6.0\telebirrpay.dll
+D:\Workspaces\visual studio\telebirrpay\telebirrpay\bin\Debug\net6.0\telebirrpay.pdb
+D:\Workspaces\visual studio\telebirrpay\telebirrpay\obj\Debug\net6.0\telebirrpay.csproj.AssemblyReference.cache
+D:\Workspaces\visual studio\telebirrpay\telebirrpay\obj\Debug\net6.0\telebirrpay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspaces\visual studio\telebirrpay\telebirrpay\obj\Debug\net6.0\telebirrpay.AssemblyInfoInputs.cache
+D:\Workspaces\visual studio\telebirrpay\telebirrpay\obj\Debug\net6.0\telebirrpay.AssemblyInfo.cs
+D:\Workspaces\visual studio\telebirrpay\telebirrpay\obj\Debug\net6.0\telebirrpay.csproj.CoreCompileInputs.cache
+D:\Workspaces\visual studio\telebirrpay\telebirrpay\obj\Debug\net6.0\telebirrpay.dll
+D:\Workspaces\visual studio\telebirrpay\telebirrpay\obj\Debug\net6.0\refint\telebirrpay.dll
+D:\Workspaces\visual studio\telebirrpay\telebirrpay\obj\Debug\net6.0\telebirrpay.pdb
+D:\Workspaces\visual studio\telebirrpay\telebirrpay\obj\Debug\net6.0\telebirrpay.genruntimeconfig.cache
+D:\Workspaces\visual studio\telebirrpay\telebirrpay\obj\Debug\net6.0\ref\telebirrpay.dll
+D:\Workspaces\visual studio\telebirrpay\telebirrpay\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Workspaces\visual studio\telebirrpay\telebirrpay\obj\Debug\net6.0\telebirrpay.csproj.CopyComplete
